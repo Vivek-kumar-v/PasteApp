@@ -48,7 +48,7 @@ function App() {
       
       <div className='text-center p-4' style={{ backgroundColor: 'rgba(0, 0, 0, 0.05)' }}>
         © 2025 Copyright:
-        <a className='text-reset fw-bold' href='https://mdbootstrap.com/'>
+        <a className='text-reset fw-bold' href='https://github.com/Vivek-kumar-v'>
           Vivek Patel
         </a>
       </div>
